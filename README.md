@@ -12,8 +12,9 @@ Bilingual EN/VI landing page for selling four fitness tracker themes (Mint / Clo
 2. Lead lands in inbox via Netlify Forms
 3. Tracker HTML file is delivered manually within 24h
 
+
 ## Live demo
-TBD — Netlify URL added after deploy.
+https://trackerfotfitness.netlify.app/
 
 ## Author
 Tran Chi Hien — Final-year Marketing student, Swinburne University of Technology (Vietnam).
