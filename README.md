@@ -2,6 +2,10 @@
 
 Bilingual EN/VI landing page for selling four fitness tracker themes (Mint / Cloud / Onyx / Amber).
 
+## Landing page 
+https://trackerfotfitness.netlify.app/
+
+
 ## Stack
 - HTML / CSS / JavaScript (single-file landing page)
 - Custom HTML form with Netlify Forms for lead capture
@@ -12,9 +16,9 @@ Bilingual EN/VI landing page for selling four fitness tracker themes (Mint / Clo
 2. Lead lands in inbox via Netlify Forms
 3. Tracker HTML file is delivered manually within 24h
 
+## Live Demo 
+https://trackerfitness202.netlify.app/
 
-## Live demo
-https://trackerfotfitness.netlify.app/
 
 ## Author
 Tran Chi Hien — Final-year Marketing student, Swinburne University of Technology (Vietnam).
